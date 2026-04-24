@@ -39,7 +39,7 @@ export const FeatureView: FC<FeatureViewProps> = ({
             Everything You Need To Launch a Coin
           </h2>
           <p className="text-default-200 text-sm font-medium">
-            MemeCoinOwner is an online all in one tool to create<br />
+            This is an online all in one tool to create<br />
             and manage your own crypto coin.
           </p>
         </div>
