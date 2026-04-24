@@ -17,9 +17,9 @@ export const AppBar: FC<AppBarProps> = (props) => {
         <div className="container">
           <nav>
             <a href="/" className="logo flex items-center gap-2">
-              <img src={"assets/images/site-logo.png"} alt="Solana Token Creator" className="h-10 w-10 rounded-full object-cover" />
+              <img src={"assets/images/site-logo.png"} alt="Solana Token Creator" className="h-16 w-16 rounded-full object-cover" />
               <span className="text-white text-xl font-bold tracking-wide">
-                Coin Memes
+                
               </span>
             </a>
 
