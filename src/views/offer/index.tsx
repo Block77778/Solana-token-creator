@@ -86,7 +86,7 @@ export const OfferView: FC = () => {
                   Secure &amp; Safe
                 </h3>
                 <p className="text-default-100 text-sm font-medium">
-                  Your wallet, your access only. MemeCoinOwner never holds your funds — every transaction is signed directly from your wallet. Your coin is only accessible and owned by you. We have no access or authorization to your coin or data.
+                  Your wallet, your access only. We never holds your funds — every transaction is signed directly from your wallet. Your coin is only accessible and owned by you. We have no access or authorization to your coin or data.
                 </p>
               </div>
             </div>
